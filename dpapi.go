@@ -1,4 +1,4 @@
-package dpapi // import "zavlapath/dpapi"
+package dpapi
 
 import (
 	"encoding/binary"
