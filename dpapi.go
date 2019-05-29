@@ -7,6 +7,7 @@ import (
 	"unsafe"
 )
 
+// some API constants
 const (
 	CRYPTPROTECT_UI_FORBIDDEN = 0x1
 )
